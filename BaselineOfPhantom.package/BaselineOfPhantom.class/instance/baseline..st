@@ -4,7 +4,7 @@ baseline: spec
 	spec
 		for: #common
 		do: [ spec
-				package: 'Phantom-Core' with: [ spec requires: #('PetitParser') ];
+				package: 'Phantom-Core';
 				package: 'Phantom-PrecedenceGraph' with: [ spec requires: 'Phantom-Core' ];
 				package: 'Phantom-Utility' with: [ spec requires: 'Phantom-Core' ];
 				package: 'Phantom-PrecedenceGraphTests' with: [ spec requires: 'Phantom-PrecedenceGraph' ];
