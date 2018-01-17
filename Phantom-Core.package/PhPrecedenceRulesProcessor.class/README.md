@@ -1,0 +1,1 @@
+This class is reponsable to process the precedence rules and order the advices action on a pointcut.

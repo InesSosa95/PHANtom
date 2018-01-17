@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ObjectAsMethodWrapper",
+	"category" : "Phantom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"needCleanUp"
+	],
+	"name" : "PhMethodWrapper",
+	"type" : "normal"
+}

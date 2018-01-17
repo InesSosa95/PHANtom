@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "PhMethodWrapper",
+	"category" : "Phantom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ProcessMembraneStack",
+		"ProcessObjectDeployedMembraneStack",
+		"ProcessObjectStack"
+	],
+	"instvars" : [
+		"membranes",
+		"cflowStack"
+	],
+	"name" : "PhMembraneMethodWrapper",
+	"type" : "normal"
+}

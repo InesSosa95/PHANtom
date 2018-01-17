@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhBrowserExample",
+	"category" : "Phantom-Examples-Membranes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhAdminBrowserExample",
+	"type" : "normal"
+}

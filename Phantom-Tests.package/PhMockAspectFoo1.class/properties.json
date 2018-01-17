@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhMockAspectFoo",
+	"category" : "Phantom-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhMockAspectFoo1",
+	"type" : "normal"
+}

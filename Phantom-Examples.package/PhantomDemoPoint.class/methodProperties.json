@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"x" : "DanielGaldames 4/1/2011 15:51",
+		"theta" : "DanielGaldames 4/1/2011 15:52",
+		"offsetWith:and:" : "DanielGaldames 4/1/2011 15:58",
+		"setPolarWith:and:" : "DanielGaldames 4/1/2011 15:56",
+		"makePolar" : "DanielGaldames 4/1/2011 16:03",
+		"initialize" : "DanielGaldames 4/1/2011 16:15",
+		"printOn:" : "DanielGaldames 4/1/2011 16:12",
+		"makeRectangular" : "DanielGaldames 4/1/2011 16:04",
+		"rotate:" : "DanielGaldames 4/1/2011 15:57",
+		"y" : "DanielGaldames 4/1/2011 15:52",
+		"setRectangularWith:and:" : "DanielGaldames 4/1/2011 15:55",
+		"rho" : "DanielGaldames 4/1/2011 15:53"
+	},
+	"class" : {
+		"main" : "DanielGaldames 4/1/2011 16:18"
+	}
+}

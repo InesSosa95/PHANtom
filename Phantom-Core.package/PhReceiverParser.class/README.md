@@ -1,0 +1,1 @@
+this class is responsable to parse the receivers declared on a pointcut.

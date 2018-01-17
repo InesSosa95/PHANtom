@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"aspect:" : "DanielGaldames 3/24/2011 12:49",
+		"parents" : "DanielGaldames 3/23/2011 17:35",
+		"subnodes" : "DanielGaldames 3/22/2011 19:04",
+		"=" : "DanielGaldames 3/24/2011 12:37",
+		"IncreasePrecedence" : "DanielGaldames 3/24/2011 14:23",
+		"initialize" : "DanielGaldames 3/24/2011 14:22",
+		"name:" : "DanielGaldames 3/22/2011 19:52",
+		"aspect" : "DanielGaldames 3/24/2011 12:32",
+		"addNodes:" : "DanielGaldames 3/22/2011 19:01",
+		"precedence:" : "DanielGaldames 3/24/2011 14:20",
+		"hash" : "DanielGaldames 3/24/2011 13:03",
+		"nodeName" : "DanielGaldames 3/23/2011 10:52",
+		"addNode:" : "DanielGaldames 3/22/2011 19:03",
+		"precedence" : "DanielGaldames 3/24/2011 14:22",
+		"clearParents" : "DanielGaldames 3/23/2011 17:35"
+	},
+	"class" : { }
+}

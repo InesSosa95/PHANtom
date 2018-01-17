@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Phantom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"beforeAdvice",
+		"aroundAdvice",
+		"afterAdvice",
+		"currentAdviceIndex",
+		"wrapper",
+		"advisingMembranes",
+		"objectDeployedAdvisingMembranes",
+		"adviceCollection"
+	],
+	"name" : "PhAdviceGroup",
+	"type" : "normal"
+}

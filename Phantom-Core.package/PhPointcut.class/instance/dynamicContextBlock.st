@@ -1,0 +1,3 @@
+accessing
+dynamicContextBlock
+	^dynamicContextBlock

@@ -1,0 +1,31 @@
+{
+	"commentStamp" : "DanielGaldames 4/14/2011 01:58",
+	"super" : "Object",
+	"category" : "Phantom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Memoizedcd",
+		"Modifiers"
+	],
+	"instvars" : [
+		"selectors",
+		"receivers",
+		"pointcut",
+		"composition",
+		"selectIfMatch",
+		"context",
+		"precedence",
+		"overrideRules",
+		"dynamicContextBlock",
+		"selectorsMessage",
+		"packageRestriction",
+		"cachedRecParser",
+		"cachedSelParser",
+		"memoizedpc",
+		"inCflowOf",
+		"ifBlock"
+	],
+	"name" : "PhPointcut",
+	"type" : "normal"
+}

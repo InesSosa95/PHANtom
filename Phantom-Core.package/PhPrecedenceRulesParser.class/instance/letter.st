@@ -1,0 +1,3 @@
+tokens
+letter
+	^ #letter asParser

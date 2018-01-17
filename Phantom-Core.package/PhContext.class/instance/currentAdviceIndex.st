@@ -1,0 +1,3 @@
+advices
+currentAdviceIndex
+	^adviceRunner index.

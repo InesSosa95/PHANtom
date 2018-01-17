@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "DanielGaldames 4/14/2011 01:28",
+	"super" : "Object",
+	"category" : "Phantom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"receiver",
+		"arguments",
+		"selector",
+		"method",
+		"sender",
+		"dynamicContext",
+		"adviceDictionary",
+		"adviceRunner"
+	],
+	"name" : "PhContext",
+	"type" : "normal"
+}

@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"orderedNodes" : "dgg 6/26/2011 16:51",
+		"initialize" : "DanielGaldames 3/22/2011 19:19",
+		"detectCycleFrom:" : "DanielGaldames 3/23/2011 11:28",
+		"getTopologicalOrderFrom:" : "dgg 6/26/2011 17:16",
+		"visitInOrder:" : "dgg 6/26/2011 16:53",
+		"visitedNodes" : "DanielGaldames 3/22/2011 19:47",
+		"cycledDetected" : "DanielGaldames 3/22/2011 19:41"
+	},
+	"class" : { }
+}

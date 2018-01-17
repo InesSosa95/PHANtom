@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PhAspect",
+	"category" : "Phantom-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Trace"
+	],
+	"instvars" : [ ],
+	"name" : "TraceDemoAspect",
+	"type" : "normal"
+}

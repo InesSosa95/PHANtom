@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"targetmethod:" : "johanfabry 10/7/2011 15:27",
+		"aspectclass" : "johanfabry 10/7/2011 15:21",
+		"targetmethod" : "johanfabry 10/7/2011 15:27",
+		"initialize" : "johanfabry 10/7/2011 16:21",
+		"instantiate:" : "johanfabry 10/7/2011 15:54",
+		"classpattern" : "johanfabry 10/7/2011 15:21",
+		"classpattern:" : "johanfabry 10/7/2011 15:21",
+		"aspectclass:" : "johanfabry 10/7/2011 15:21"
+	},
+	"class" : {
+		"onClassPattern:instantiate:targetmethod:" : "johanfabry 10/7/2011 16:22"
+	}
+}

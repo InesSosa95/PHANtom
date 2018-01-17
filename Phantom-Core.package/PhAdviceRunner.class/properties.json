@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Phantom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"advice",
+		"index",
+		"type",
+		"selector",
+		"receiver",
+		"arguments",
+		"adviceGroup",
+		"previousMembraneSet",
+		"previousObjectDeployedMembraneSet"
+	],
+	"name" : "PhAdviceRunner",
+	"type" : "normal"
+}

@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "DanielGaldames 4/14/2011 01:55",
+	"super" : "PPCompositeParser",
+	"category" : "Phantom-Core",
+	"classinstvars" : [
+		"classAndSubclassAction",
+		"subclassesAction",
+		"metaNameAction",
+		"nameAction"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"starToken",
+		"nameToken",
+		"plusToken",
+		"idToken",
+		"metaToken",
+		"allToken"
+	],
+	"name" : "PhReceiverParser",
+	"type" : "normal"
+}

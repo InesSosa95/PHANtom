@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "johanfabry 10/7/2011 16:10",
+	"super" : "PhAspect",
+	"category" : "Phantom-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"target"
+	],
+	"name" : "PhPerObjExampleAspect",
+	"type" : "normal"
+}

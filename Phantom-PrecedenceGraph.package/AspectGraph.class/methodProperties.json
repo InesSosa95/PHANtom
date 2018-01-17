@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"setParents" : "DanielGaldames 3/23/2011 17:34",
+		"addAll:" : "DanielGaldames 3/23/2011 12:49",
+		"getBaseNodes" : "dgg 6/26/2011 17:17",
+		"add:" : "DanielGaldames 3/22/2011 16:54",
+		"merge:" : "DanielGaldames 3/26/2011 19:46",
+		"existsCycle" : "DanielGaldames 3/23/2011 11:28",
+		"remove:" : "DanielGaldames 3/22/2011 16:54",
+		"getRoots" : "dgg 6/26/2011 16:43",
+		"setPrecedence" : "dgg 6/27/2011 18:18",
+		"nodeSet:" : "DanielGaldames 3/22/2011 16:53",
+		"getRootNode" : "DanielGaldames 3/23/2011 17:37",
+		"nodeSet" : "DanielGaldames 3/22/2011 16:54",
+		"getTopologicalSort" : "dgg 6/26/2011 17:17"
+	},
+	"class" : { }
+}

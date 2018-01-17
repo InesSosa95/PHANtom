@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhAspect",
+	"category" : "Phantom-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ComparablePointDemoAspect",
+	"type" : "normal"
+}

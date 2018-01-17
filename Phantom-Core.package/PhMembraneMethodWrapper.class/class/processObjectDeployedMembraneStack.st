@@ -1,0 +1,3 @@
+as yet unclassified
+processObjectDeployedMembraneStack
+	^ ProcessObjectDeployedMembraneStack ifNil: [ProcessObjectDeployedMembraneStack := WeakKeyToCollectionDictionary new]

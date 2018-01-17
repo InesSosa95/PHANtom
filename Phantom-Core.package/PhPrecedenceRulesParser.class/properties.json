@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "DanielGaldames 4/14/2011 01:54",
+	"super" : "PPCompositeParser",
+	"category" : "Phantom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"letter",
+		"word",
+		"any",
+		"identifier",
+		"anysubclass",
+		"identifierStar",
+		"starIdentifierStar",
+		"starAny"
+	],
+	"name" : "PhPrecedenceRulesParser",
+	"type" : "normal"
+}

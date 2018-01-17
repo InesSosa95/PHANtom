@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhAdvice",
+	"category" : "Phantom-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhMockAdvice",
+	"type" : "normal"
+}

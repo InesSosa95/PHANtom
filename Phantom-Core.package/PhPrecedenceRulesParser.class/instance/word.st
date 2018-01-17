@@ -1,0 +1,3 @@
+tokens
+word
+	^ #word asParser

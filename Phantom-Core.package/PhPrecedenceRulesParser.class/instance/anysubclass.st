@@ -1,0 +1,3 @@
+tokens
+anysubclass
+	^$+ asParser

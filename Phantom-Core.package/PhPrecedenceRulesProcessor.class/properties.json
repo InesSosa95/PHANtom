@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DanielGaldames 4/14/2011 01:55",
+	"super" : "Object",
+	"category" : "Phantom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhPrecedenceRulesProcessor",
+	"type" : "normal"
+}

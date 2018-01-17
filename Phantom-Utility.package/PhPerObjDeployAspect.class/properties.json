@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "johanfabry 10/7/2011 16:13",
+	"super" : "PhAspect",
+	"category" : "Phantom-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"targetmethod",
+		"classpattern",
+		"aspectclass"
+	],
+	"name" : "PhPerObjDeployAspect",
+	"type" : "normal"
+}

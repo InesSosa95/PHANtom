@@ -1,0 +1,8 @@
+private
+panicCleanAndResetAll
+	self uninstallAll.
+	self objectMembranes removeAll.
+	PhMembraneMethodWrapper processMembraneStack removeAll.
+	PhMembraneMethodWrapper processObjectStack removeAll.
+	PhMembraneMethodWrapper processObjectDeployedMembraneStack.
+	SmalltalkImage current garbageCollect.
