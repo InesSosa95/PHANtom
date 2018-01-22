@@ -1,0 +1,4 @@
+testing
+counter
+
+	^ counter

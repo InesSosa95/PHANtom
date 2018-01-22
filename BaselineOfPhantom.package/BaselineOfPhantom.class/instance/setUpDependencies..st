@@ -3,5 +3,5 @@ setUpDependencies: spec
 	spec
 		configuration: 'PetitParser'
 		with: [ spec
-				versionString: #stable;
+				versionString: #Core;
 				repository: 'http://smalltalkhub.com/mc/Moose/PetitParser/main' ]

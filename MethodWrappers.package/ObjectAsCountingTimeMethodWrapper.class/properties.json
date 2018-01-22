@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ObjectAsMethodWrapper",
+	"category" : "MethodWrappers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"counter"
+	],
+	"name" : "ObjectAsCountingTimeMethodWrapper",
+	"type" : "normal"
+}

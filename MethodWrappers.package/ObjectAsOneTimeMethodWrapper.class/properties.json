@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ObjectAsMethodWrapper",
+	"category" : "MethodWrappers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"executed"
+	],
+	"name" : "ObjectAsOneTimeMethodWrapper",
+	"type" : "normal"
+}

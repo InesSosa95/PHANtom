@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "cyrille.delaunay 3/23/2009 11:24",
+	"super" : "Object",
+	"category" : "MethodWrappers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oldMethod",
+		"preblock",
+		"postblock",
+		"reference"
+	],
+	"name" : "ObjectAsMethodWrapper",
+	"type" : "normal"
+}

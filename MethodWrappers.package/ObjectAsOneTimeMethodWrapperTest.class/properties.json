@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "MethodWrappers-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"preExecuted",
+		"postExecuted"
+	],
+	"name" : "ObjectAsOneTimeMethodWrapperTest",
+	"type" : "normal"
+}
