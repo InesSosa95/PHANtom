@@ -1,5 +1,6 @@
 tests
 testReentrancy
+
 	| membrane asp pc |
 	[pc := PhPointcut new
 		receivers: 'PhMockClass';
