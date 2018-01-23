@@ -22,4 +22,4 @@ Execute in playground:
   
  * [Paper](http://repositorio.uchile.cl/bitstream/handle/2250/126672/PHANtom-a-modern-aspect-language-for-Pharo-Smalltalk.pdf?sequence=1&isAllowed=y)
   
- * [Original paper in Spanish] (http://repositorio.uchile.cl/tesis/uchile/2011/cf-galdames_dg/pdfAmont/cf-galdames_dg.pdf)
+ * [Original paper in Spanish](http://repositorio.uchile.cl/tesis/uchile/2011/cf-galdames_dg/pdfAmont/cf-galdames_dg.pdf)
