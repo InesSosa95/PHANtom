@@ -17,7 +17,8 @@ Execute in playground:
 		load
   ```
   
-    ## More Information
+  
+  ## More Information
   
  * [Paper](http://repositorio.uchile.cl/bitstream/handle/2250/126672/PHANtom-a-modern-aspect-language-for-Pharo-Smalltalk.pdf?sequence=1&isAllowed=y)
   
