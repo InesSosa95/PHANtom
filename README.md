@@ -1,5 +1,5 @@
 # PHANtom
-An aspect language for Pharo Smalltalk
+A modern aspect language for Pharo Smalltalk
 By Johan Fabry and Daniel Galdames
 
   ## Summary
