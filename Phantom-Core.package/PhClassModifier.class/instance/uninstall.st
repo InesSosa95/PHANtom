@@ -2,9 +2,15 @@ install-uninstall
 uninstall
 	modifiedClasses
 		do: [ :modifiedClass | 
-			newClassMethodDict keysDo: [ :selector | modifiedClass theMetaClass removeSelector: selector ].
-			newInstanceMethodDict keysDo: [ :selector | modifiedClass theNonMetaClass removeSelector: selector ].
+			newClassMethodDict
+				keysDo: [ :selector | modifiedClass classSide removeSelector: selector ].
+			newInstanceMethodDict
+				keysDo: [ :selector | modifiedClass instanceSide removeSelector: selector ].
 			modifiedClass organization removeEmptyCategories.
-			modifiedClass theMetaClass organization removeEmptyCategories.
-			newClassVar do: [ :classVarName | modifiedClass theNonMetaClass removeClassVarNamed: classVarName ].
-			newInstanceVar do: [ :instanceVarName | modifiedClass theNonMetaClass removeInstVarNamed: instanceVarName ] ]
+			modifiedClass classSide organization removeEmptyCategories.
+			newClassVar
+				do:
+					[ :classVarName | modifiedClass instanceSide removeClassVarNamed: classVarName ].
+			newInstanceVar
+				do:
+					[ :instanceVarName | modifiedClass instanceSide removeInstVarNamed: instanceVarName ] ]
