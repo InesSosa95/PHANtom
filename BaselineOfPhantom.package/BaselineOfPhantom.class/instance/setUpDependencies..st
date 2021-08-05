@@ -1,7 +1,5 @@
 baselines
 setUpDependencies: spec
 	spec
-		configuration: 'PetitParser'
-		with: [ spec
-				versionString: #stable;
-				repository: 'http://smalltalkhub.com/mc/Moose/PetitParser/main' ]
+		baseline: 'PetitParser'
+		with: [ spec repository: 'github://moosetechnology/PetitParser:v2.x.x/src' ]
