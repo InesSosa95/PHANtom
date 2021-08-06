@@ -5,67 +5,68 @@ activateSystemNotification
 		ofSystemChangesOfItem: #class
 		change: #Added
 		using: #verifyNewClass:."
+
 	SystemAnnouncer uniqueInstance
-		subscribe: ClassAdded
+		when: ClassAdded
 		send: #verifyNewClass:
 		to: self.
-		
+
 	"SystemChangeNotifier uniqueInstance
 		notify: self
 		ofSystemChangesOfItem: #class
 		change: #Modified
 		using: #systemEvent:."
 	SystemAnnouncer uniqueInstance
-		subscribe: ClassModifiedClassDefinition
+		when: ClassModifiedClassDefinition
 		send: #systemEvent:
 		to: self.
-	
+
 	"SystemChangeNotifier uniqueInstance
 		notify: self
 		ofSystemChangesOfItem: #class
 		change: #Removed
 		using: #systemEvent:."
 	SystemAnnouncer uniqueInstance
-		subscribe: ClassRemoved
+		when: ClassRemoved
 		send: #systemEvent:
-		to: self.	
-	
+		to: self.
+
 	"SystemChangeNotifier uniqueInstance
 		notify: self
 		ofSystemChangesOfItem: #class
 		change: #Renamed
 		using: #classRename:."
 	SystemAnnouncer uniqueInstance
-		subscribe: ClassRenamed
+		when: ClassRenamed
 		send: #classRename:
-		to: self.	
-	
+		to: self.
+
 	"SystemChangeNotifier uniqueInstance
 		notify: self
 		ofSystemChangesOfItem: #method
 		change: #Added
 		using: #verifyNewMethod:."
 	SystemAnnouncer uniqueInstance
-		subscribe: MethodAdded
+		when: MethodAdded
 		send: #verifyNewMethod:
-		to: self.	
-	
+		to: self.
+
 	"SystemChangeNotifier uniqueInstance
 		notify: self
 		ofSystemChangesOfItem: #method
 		change: #Modified
 		using: #methodModification:."
 	SystemAnnouncer uniqueInstance
-		subscribe: MethodModified
+		when: MethodModified
 		send: #methodModification:
-		to: self.	
-		
+		to: self.
+
 	"SystemChangeNotifier uniqueInstance
 		notify: self
 		ofSystemChangesOfItem: #method
 		change: #Removed
 		using: #methodRemoved:"
 	SystemAnnouncer uniqueInstance
-		subscribe: MethodRemoved
+		when: MethodRemoved
 		send: #methodRemoved:
-		to: self.
+		to: self
